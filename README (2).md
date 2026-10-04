@@ -2,7 +2,7 @@
 
 # Varshini V Poojary
 
-**Cloud Automation &nbsp;|&nbsp; SDET Frameworks &nbsp;|&nbsp; CI/CD**
+**Cloud Automation &nbsp;|&nbsp; DevOps &nbsp;|&nbsp; AIOps**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=FF7139)](https://varsh-28.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshinivpoojary)
